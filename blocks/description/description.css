@@ -1,0 +1,9 @@
+.description {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    min-width: 784px;
+    padding-top: 100px;
+    width: 80%;
+    box-sizing: border-box;
+  }
