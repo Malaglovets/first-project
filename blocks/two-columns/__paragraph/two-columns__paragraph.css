@@ -4,3 +4,6 @@
   font-size: 24px;
   font-weight: 400;
 }
+.two-columns__paragraph:last-child {
+  margin: 0;
+}

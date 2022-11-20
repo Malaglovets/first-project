@@ -1,11 +1,10 @@
 .kaufman {
   overflow: hidden;
   box-sizing: border-box;
-  padding: 90px auto 90px auto;
+  padding: 90px 0 90px 0;
   display: flex;
   position: relative;
   flex-direction: column;
-  justify-content: space-around;
   background-color: #1f1f1f;
   z-index: 1;
 }
